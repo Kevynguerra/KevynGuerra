@@ -32,6 +32,11 @@
 
 ![Kevyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevynguerra&show_icons=true&theme=dracula)
 
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevynguerra&layout=compact&theme=dracula)
+
+
 ---
 
 ## 🤝 Vamos nos conectar!
