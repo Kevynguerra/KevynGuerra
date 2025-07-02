@@ -39,3 +39,9 @@
 ## 🤝 Vamos nos conectar!
 
 Se você está buscando um colaborador dedicado e em constante evolução na área de desenvolvimento front-end, estou aberto a oportunidades e parcerias. Me chama no e-mail ou aqui mesmo no GitHub!
+
+## 🌐 Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/o.kevynguerra?igsh=ODgwY2h0OHl1bXhr&utm_source=qr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-kevyn-70b050356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
