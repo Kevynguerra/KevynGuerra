@@ -32,7 +32,9 @@
 
 ![Kevyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevynguerra&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevynguerra&layout=compact&theme=dracula)
-
+<div>
+  <img src="https://github.com/user-attachments/assets/97049b48-2345-4f81-af8d-5eede9c19c58" width="450px" height="300px" 
+</div>
 
 ---
 
@@ -45,5 +47,7 @@ Se você está buscando um colaborador dedicado e em constante evolução na ár
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o.kevynguerra?igsh=ODgwY2h0OHl1bXhr&utm_source=qr)  
 &nbsp;  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-kevyn-70b050356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
 
 
