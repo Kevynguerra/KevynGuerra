@@ -42,6 +42,8 @@ Se você está buscando um colaborador dedicado e em constante evolução na ár
 
 ## 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/o.kevynguerra?igsh=ODgwY2h0OHl1bXhr&utm_source=qr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-kevyn-70b050356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o.kevynguerra?igsh=ODgwY2h0OHl1bXhr&utm_source=qr)  
+&nbsp;  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-kevyn-70b050356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
