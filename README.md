@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats
 
-![Kevyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dracula)
+![Kevyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevynguerra&show_icons=true&theme=dracula)
 
 ---
 
